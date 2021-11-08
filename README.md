@@ -16,7 +16,7 @@ passionate about building applications. Looking forward to honing skills by work
 various challenging projects.</p>
 ---
 <ul>
-**About me**
+    **About me**
  
  
  
@@ -40,6 +40,4 @@ various challenging projects.</p>
 
 ![Avadhut's GitHub statistics](https://github-readme-stats.vercel.app/api?username=avadhutjc&show_icons=true&theme=chartreuse-dark)
 
-
 ![Avadhut's github activity graph](https://activity-graph.herokuapp.com/graph?username=avadhutjc&theme=dracula)
-

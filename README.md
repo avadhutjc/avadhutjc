@@ -13,7 +13,7 @@
 <p>Hi, An enthusiastic Android Developer with knowledge of Core
 Java, Kotlin and Android. Highly adaptable to learning new technologies and
 passionate about building applications. Looking forward to honing skills by working on
-various challenging projects</p>
+various challenging projects.</p>
 ---
 <ul>
 **About me**

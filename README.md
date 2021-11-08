@@ -1,7 +1,5 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"  alt="Hey">
-
  <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/lucifernipun22/lucifernipun22/blob/main/code.gif?raw=true"><img align="center" alt="GIF" src="https://github.com/lucifernipun22/lucifernipun22/raw/main/code.gif?raw=true" width="1000" height="500" style="max-width: 100%;"></a></p>
 
 <p>Hi, An enthusiastic and experienced front-end Android Developer with knowledge of Core

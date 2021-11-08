@@ -10,11 +10,10 @@
  
 <li>:iphone: Android Engineer </li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">:mailbox:</g-emoji> How to reach me:
- <a href="https://www.linkedin.com/in/amolpardeshi" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="13" height="13"/></a></li>
-  <li>:man: Pronouns: He/Him/His</li>
- <li>:receipt: Resume: <a href="https://drive.google.com/drive/folders/1sNVmGw7ymb1lVb2HrtwRHYaQv0Gk-_hU?usp=sharing">view</a></li>
+ <a href="https://www.linkedin.com/in/avadhutjc/" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="13" height="13"/></a></li>
+ <li>:receipt: Resume: <a href="https://drive.google.com/file/d/1nIT25uU3xTR0NOuETSFygPdtjj8sPWyq/view?usp=sharing">view</a></li>
   
-  <li>:: Portfolio: <a href="https://amolpardeshi99.github.io/">visit</a></li>
+  <li>:: Portfolio: <a href="https://avadhutjc.dorik.io/">visit</a></li>
 </ul>
 
 

@@ -1,7 +1,10 @@
 # Hey there :wave:
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"  alt="Hey">
-
+<p>Hi, An enthusiastic and experienced front-end Android Developer with knowledge of Core
+Java, Kotlin and Android. Highly adaptable to learning new technologies and
+passionate about building applications. Looking forward to honing skills by working on
+various challenging projects</p>
 ---
 <ul>
 **About me**

@@ -34,3 +34,5 @@ various challenging projects</p>
 ![Avadhut's GitHub statistics](https://github-readme-stats.vercel.app/api?username=avadhutjc&show_icons=true&theme=chartreuse-dark)
 
 
+![Avadhut's github activity graph](https://activity-graph.herokuapp.com/graph?username=avadhutjc&theme=dracula)
+

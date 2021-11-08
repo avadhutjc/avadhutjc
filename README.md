@@ -7,6 +7,7 @@
 **About me**
  
  
+ 
 <li>:iphone: Android Engineer </li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">:mailbox:</g-emoji> How to reach me:
  <a href="https://www.linkedin.com/in/amolpardeshi" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="13" height="13"/></a></li>

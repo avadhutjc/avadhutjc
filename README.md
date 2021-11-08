@@ -34,7 +34,3 @@ various challenging projects</p>
 ![Avadhut's GitHub statistics](https://github-readme-stats.vercel.app/api?username=avadhutjc&show_icons=true&theme=chartreuse-dark)
 
 
-![Avadhut's github activity graph](https://activity-graph.herokuapp.com/graph?username=avadhutjc&theme=dracula)<img align="right">
-
- <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/lucifernipun22/lucifernipun22/blob/main/code.gif?raw=true"><img align="center" alt="GIF" src="https://github.com/lucifernipun22/lucifernipun22/raw/main/code.gif?raw=true" width="1000" height="500" style="max-width: 100%;"></a>
-</p>

@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"  alt="Hi An enthusiastic and experienced front-end Android Developer with knowledge of Core Java, Kotlin and Android.">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"  alt="Hey">
 
 ---
 <ul>

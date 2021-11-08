@@ -24,9 +24,9 @@
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmolPardeshi99&theme=chartreuse-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avadhutjc&theme=chartreuse-dark)
 
-![Amol's GitHub statistics](https://github-readme-stats.vercel.app/api?username=AmolPardeshi99&show_icons=true&theme=chartreuse-dark)
+![Avadhut's GitHub statistics](https://github-readme-stats.vercel.app/api?username=avadhutjc&show_icons=true&theme=chartreuse-dark)
 
 
-![Amol's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmolPardeshi99&theme=dracula)
+![Avadhut's github activity graph](https://activity-graph.herokuapp.com/graph?username=avadhutjc&theme=dracula)

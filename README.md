@@ -24,9 +24,6 @@ various challenging projects.</p>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">:mailbox:</g-emoji> How to reach me:
  <a href="https://www.linkedin.com/in/avadhutjc/" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="13" height="13"/></a></li>
  <li>:receipt: Resume: <a href="https://drive.google.com/file/d/1nIT25uU3xTR0NOuETSFygPdtjj8sPWyq/view?usp=sharing">view</a></li>
- 
- <a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom" >
-<img src="https://raw.githubusercontent.com/Ramotion/react-native-circle-menu/master/google_play@2x.png" width="104" height="34"></a>
   
   <li>:: Portfolio: <a href="https://avadhutjc.dorik.io/">visit</a></li>
 </ul>

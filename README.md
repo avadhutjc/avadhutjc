@@ -29,7 +29,7 @@ various challenging projects.</p>
  
  
 <li>: Play Store: <a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom"></a></li>
-<img src="https://raw.githubusercontent.com/Ramotion/react-native-circle-menu/master/google_play@2x.png" width="60" height="50"/>
+<img src="https://raw.githubusercontent.com/Ramotion/react-native-circle-menu/master/google_play@2x.png" width="60" height="13"/>
  
 </ul>
 

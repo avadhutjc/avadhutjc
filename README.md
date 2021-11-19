@@ -28,7 +28,7 @@ various challenging projects.</p>
   <li>:: Portfolio: <a href="https://avadhutjc.dorik.io/">visit</a></li>
  
  
-<a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom" >
+<li>:receipt: Play Store: <a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom"></a></li>
 <img src="https://raw.githubusercontent.com/Ramotion/react-native-circle-menu/master/google_play@2x.png" width="75" height="28"></a>
  
 </ul>

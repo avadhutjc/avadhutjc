@@ -26,6 +26,11 @@ various challenging projects.</p>
  <li>:receipt: Resume: <a href="https://drive.google.com/file/d/1nIT25uU3xTR0NOuETSFygPdtjj8sPWyq/view?usp=sharing">view</a></li>
   
   <li>:: Portfolio: <a href="https://avadhutjc.dorik.io/">visit</a></li>
+ 
+ 
+<a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom" >
+<img src="https://raw.githubusercontent.com/Ramotion/react-native-circle-menu/master/google_play@2x.png" width="75" height="28"></a>
+ 
 </ul>
 
 ---
@@ -38,3 +43,4 @@ various challenging projects.</p>
 ![Avadhut's GitHub statistics](https://github-readme-stats.vercel.app/api?username=avadhutjc&show_icons=true&theme=chartreuse-dark)
 
 ![Avadhut's github activity graph](https://activity-graph.herokuapp.com/graph?username=avadhutjc&theme=dracula)
+

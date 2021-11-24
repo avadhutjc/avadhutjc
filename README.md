@@ -18,7 +18,7 @@ various challenging projects.</p>
 <ul>
  
  
-<h2 align="left">☕ Let's Connect</h2>
+<h2 align="right">☕ Let's Connect :: </h2>
 <p align="center">
  
 <li>:iphone: Android Engineer </li>

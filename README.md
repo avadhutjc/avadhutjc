@@ -48,10 +48,10 @@ various challenging projects.</p>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" alt="Android SDK" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL Logo" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="50" height="50"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma Logo" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 <h2 align="left">👷 Stats So Far 👷 </h2>
@@ -67,7 +67,3 @@ various challenging projects.</p>
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="1000"  height="150" />
   </p>
   
-  
-  
-  
-

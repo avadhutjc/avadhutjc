@@ -49,9 +49,9 @@ various challenging projects.</p>
 <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL Logo" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="50" height="50"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="50" height="50"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma Logo" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---

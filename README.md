@@ -52,7 +52,7 @@ various challenging projects.</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=avadhutjc&" alt="avadhutjc" align="center" />
 
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=avadhutjc&theme=chartreuse-dark align="center" />
+<img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=avadhutjc&theme=chartreuse-dark) align="center" />
 
 
 

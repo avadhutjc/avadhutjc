@@ -56,7 +56,7 @@ various challenging projects.</p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=avadhutjc&" alt="avadhutjc" align="center" width="1000"/>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="1000" />
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="1000"  height="200" />
   </p>
   
   

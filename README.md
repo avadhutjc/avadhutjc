@@ -60,7 +60,7 @@ various challenging projects.</p>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
-<h2 align="left"> 📊  My GitHub Stats So Far 👷 </h2>
+<h2 align="left"> 📊  My GitHub Stats So Far ![image](https://user-images.githubusercontent.com/60433739/143285427-91d27657-5112-4ca2-a0ac-e5bfb675f18f.png) </h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=avadhutjc&show_icons=true&theme=chartreuse-dark" align="right"/>
 

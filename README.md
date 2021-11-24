@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Avadhut Chougule</h1>
-<h3 align="center">Full Stack Android Developer</h3>
+<h2 <b> align="center">Full Stack Android Developer </b> </h2>
 
 </a>
 

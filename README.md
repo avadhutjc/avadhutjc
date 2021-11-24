@@ -16,7 +16,7 @@
 Java, Kotlin and Android. Highly adaptable to learning new technologies and
 passionate about building applications. Looking forward to honing skills by working on
 various challenging projects.</p>
-----------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
 <ul>
  
 <h1 align="left">☕ Let's Connect :: </h1>

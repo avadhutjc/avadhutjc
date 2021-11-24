@@ -54,7 +54,7 @@ various challenging projects.</p>
 
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=avadhutjc&theme=chartreuse-dark />
 
-![Most Used Languages](<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=avadhutjc&theme=chartreuse-dark)/>
+![Most Used Languages](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avadhutjc&theme=chartreuse-dark")/>
 
 
 

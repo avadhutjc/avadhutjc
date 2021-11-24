@@ -29,7 +29,7 @@ various challenging projects.</p>
  <a href="https://www.linkedin.com/in/avadhutjc/" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="13" height="13"/></a></li>
  <li>:receipt: Resume: <a href="https://drive.google.com/file/d/1Tp_3iQjSuTglmQjjDKUpLNUjxsxHB0Az/view?usp=sharing">view</a></li>
   
-  <li>    :: Portfolio: <a href="https://avadhutjc.dorik.io/">visit</a></li>
+    <li>    :: Portfolio: <a href="https://avadhutjc.dorik.io/">visit</a></li>
  
 <!--  
 <li>:: Play Store: <a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom"></a></li>

@@ -74,3 +74,13 @@ various challenging projects.</p>
   </p>
   
   
+## ❤ Views and Followers
+
+<a href="https://komarev.com/ghpvc/?username=avadhutjc">
+    <img src="https://komarev.com/ghpvc/?username=avadhutjc">
+</a>
+<a href="https://img.shields.io/github/followers/avadhutjc"><img src="https://img.shields.io/github/followers/avadhutjc?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
+

@@ -48,7 +48,7 @@ various challenging projects.</p>
 ---
 <h2 align="left">👷 Stats so far</h2>
 
-(<img src="https://github-readme-stats.vercel.app/api?username=avadhutjc&show_icons=true&theme=chartreuse-dark" align="right"/>)
+<img src="https://github-readme-stats.vercel.app/api?username=avadhutjc&show_icons=true&theme=chartreuse-dark" align="right"/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avadhutjc&theme=chartreuse-dark)
 

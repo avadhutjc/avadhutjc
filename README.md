@@ -52,7 +52,7 @@ various challenging projects.</p>
 <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="50" height="50"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma Logo" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 <h2 align="left">👷 Stats So Far 👷 </h2>

@@ -57,5 +57,5 @@ various challenging projects.</p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avadhutjc&" alt="avadhutjc" /></p>
 
-![Avadhut's github activity graph](https://activity-graph.herokuapp.com/graph?username=avadhutjc&theme=dracula)
+
 

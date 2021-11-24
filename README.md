@@ -22,7 +22,7 @@ various challenging projects.</p>
 <h1 align="left">☕ Let's Connect :: </h1>
 <p align="center">
  
-<h2 <b>** &nbsp; About Me &nbsp; ** </b> </h2>
+<p <b>** &nbsp; About Me &nbsp; ** </b> </p>
 
  
 <li>:iphone: Android Engineer </li>

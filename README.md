@@ -50,6 +50,9 @@ various challenging projects.</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avadhutjc&theme=chartreuse-dark)
 
+![Avadhut's GitHub statistics] <img src="https://github-readme-stats.vercel.app/api?username=avadhutjc&show_icons=true&theme=chartreuse-dark" align="right"/> )
+
+
 ![Avadhut's GitHub statistics](https://github-readme-stats.vercel.app/api?username=avadhutjc&show_icons=true&theme=chartreuse-dark)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avadhutjc&" alt="avadhutjc" /></p>

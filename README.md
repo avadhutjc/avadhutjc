@@ -53,7 +53,7 @@ various challenging projects.</p>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avadhutjc&theme=chartreuse-dark)
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avadhutjc&" alt="avadhutjc" width="50" height="50"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avadhutjc&" alt="avadhutjc" /></p>
 
 
 

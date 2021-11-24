@@ -21,9 +21,7 @@ various challenging projects.</p>
 <h2 align="left">☕ Let's Connect</h2>
 <p align="center">
  
-    **About me**
- 
- 
+<h2 align="left">**About me** </h2>
  
 <li>:iphone: Android Engineer </li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">:mailbox:</g-emoji> How to reach me:

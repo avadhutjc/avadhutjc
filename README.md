@@ -78,7 +78,7 @@ various challenging projects.</p>
 </a>
 <a href="https://img.shields.io/github/followers/avadhutjc"><img src="https://img.shields.io/github/followers/avadhutjc?label=Followers&style=social" alt="GitHub Badge"></a>
 
-## waves animation
+<!-- ## waves animation -->
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="1000"  height="150" />

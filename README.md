@@ -5,11 +5,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avadhut Chougule</h1>
 <h3 align="center">I'm a passionate Full Stack Android Developer and Competitive Programmer from :india:</h3>
 
-</a>
+<!-- </a>
 
-</a>
+</a> -->
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232"><img src="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=lucifernipun22.lucifernipun22" style="max-width: 100%;"></a></p>
+<!-- <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232"><img src="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=lucifernipun22.lucifernipun22" style="max-width: 100%;"></a></p> -->
 <br>
 
  <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/lucifernipun22/lucifernipun22/blob/main/code.gif?raw=true"><img align="center" alt="GIF" src="https://github.com/lucifernipun22/lucifernipun22/raw/main/code.gif?raw=true" width="1000" height="350" style="max-width: 100%;"></a>
@@ -78,7 +78,7 @@ various challenging projects.</p>
 </a>
 <a href="https://img.shields.io/github/followers/avadhutjc"><img src="https://img.shields.io/github/followers/avadhutjc?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232"><img src="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=lucifernipun22.lucifernipun22" style="max-width: 100%;" align="right"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232"><img src="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=lucifernipun22.lucifernipun22" style="max-width: 100%;"></a>
 <br>
 
 <!-- ## waves animation -->

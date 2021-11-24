@@ -53,7 +53,7 @@ various challenging projects.</p>
 <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma Logo" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
 
 ---
-<h2 align="left">👷 Stats so far</h2>
+<h2 align="left">👷 Stats So Far 👷 </h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=avadhutjc&show_icons=true&theme=chartreuse-dark" align="right"/>
 

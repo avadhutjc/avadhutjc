@@ -50,7 +50,7 @@ various challenging projects.</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=avadhutjc&show_icons=true&theme=chartreuse-dark" align="right"/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avadhutjc&" alt="avadhutjc" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avadhutjc&" alt="avadhutjc" align="center" /></p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avadhutjc&theme=chartreuse-dark)
 

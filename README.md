@@ -38,9 +38,8 @@ various challenging projects.</p>
   
  <li> &nbsp; :: &nbsp;Portfolio : <a href="https://avadhutjc.dorik.io/">View</a></li>
  
- <li> &nbsp; :: &nbsp;App On Play Store : <a href="https://play.google.com/store/apps/details?id=com.avadhut.qrcodereaderapp">View</a></li>
+ <li> &nbsp; :: &nbsp;App Registered On Play Store : <a href="https://play.google.com/store/apps/details?id=com.avadhut.qrcodereaderapp">View</a></li>
 
- 
 <!--  
 <li>:: Play Store: <a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom"></a></li>
 <img src="https://raw.githubusercontent.com/Ramotion/react-native-circle-menu/master/google_play@2x.png" width="60" height="13">

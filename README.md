@@ -36,7 +36,7 @@ various challenging projects.</p>
   
  <li> &nbsp; :: &nbsp;Portfolio : <a href="https://avadhutjc.dorik.io/">visit</a></li>
  
-  <li> &nbsp; :: &nbsp;Portfolio : <a href="https://avadhutjc.dorik.io/">visit</a></li>
+ <li> &nbsp; <:> &nbsp;App On Play Store : <a href="https://play.google.com/store/apps/details?id=com.avadhut.qrcodereaderapp">visit</a></li>
 
  
 <!--  

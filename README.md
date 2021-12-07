@@ -38,6 +38,8 @@ various challenging projects.</p>
   
  <li> &nbsp; :: &nbsp;Portfolio : <a href="https://avadhutjc.dorik.io/">View</a></li>
  
+  <li>🧰&nbsp;Digital Certificates : <a href="https://drive.google.com/drive/folders/13dFo-FPtz0q7WNKtGk7mf-jBLpDp8UEM?usp=sharing">View</a></li>
+ 
  <li> &nbsp; :: &nbsp;App Registered On Play Store : <a href="https://play.google.com/store/apps/details?id=com.avadhut.qrcodereaderapp">View</a></li>
 
 <!--  

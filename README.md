@@ -39,7 +39,8 @@ various challenging projects.</p>
  
   <li>🧰&nbsp;Digital Certificates : <a href="https://drive.google.com/drive/folders/13dFo-FPtz0q7WNKtGk7mf-jBLpDp8UEM?usp=sharing">View</a></li>
  
- <li> &nbsp; :: &nbsp;App Registered On Play Store : <a href="https://play.google.com/store/apps/details?id=com.avadhut.qrcodereaderapp">View</a></li>
+ <li> &nbsp; :: &nbsp;App Registered On Play Store (2) : 1) Instant Qr Code Reader <a href="https://play.google.com/store/apps/details?id=com.avadhut.qrcodereaderapp">View</a>&nbsp;&nbsp; 2) Fun With Maths <a href="https://play.google.com/store/apps/details?id=com.ajc.fun">View</a></li> 
+
 
 <!--  
 <li>:: Play Store: <a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom"></a></li>

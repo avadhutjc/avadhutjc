@@ -2,8 +2,8 @@
 <h2 <b align="center" > Full Stack Android Developer </b> </h2>
  -->
  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avadhut Chougule</h1>
-<h3 align="center">I'm a passionate Full Stack Android Developer and Competitive Programmer from :india:</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Avadhut Chougule</h1>
+<h3 align="center">I'm a passionate Full Stack Android Developer and Competitive Programmer from :india:</h2>
 
 <!-- </a>
 
@@ -77,6 +77,11 @@ various challenging projects.</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=avadhutjc&" alt="avadhutjc" align="center" width="1000"/>
   
+  
+- ⚡ Fun fact **Code and Anime**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avadhutjc&no-frame=true&margin-w=35&theme=buddhism" alt="avadhutjc" /></a> </p>
+
 ## ❤ Views and Followers
 
 <a href="https://komarev.com/ghpvc/?username=avadhutjc">

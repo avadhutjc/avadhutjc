@@ -89,9 +89,11 @@ various challenging projects.</p>
 
 ![Avadhut's github activity graph](https://activity-graph.herokuapp.com/graph?username=avadhutjc&theme=#bababa)
 
+<!-- ## Buy Me a Coffee -->
+<a href="https://www.buymeacoffee.com/kingbond470" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
 
 <!-- ## waves animation -->
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="1000"  height="150" />
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="1000"  height="70" />
   </p>

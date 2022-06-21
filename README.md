@@ -93,10 +93,10 @@ various challenging projects.</p>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232"><img src="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=lucifernipun22.lucifernipun22" style="max-width: 100%;"></a>
 <br>
 
-![Avadhut's github activity graph](https://activity-graph.herokuapp.com/graph?username=avadhutjc&theme=#bababa)
-
 <!-- ## Buy Me a Coffee -->
 <a href="https://www.buymeacoffee.com/kingbond470" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
+
+![Avadhut's github activity graph](https://activity-graph.herokuapp.com/graph?username=avadhutjc&theme=#bababa)
 
 <!-- ## waves animation -->
 

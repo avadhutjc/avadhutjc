@@ -26,6 +26,10 @@ various challenging projects.</p>
  
 <h1 align="left">☕ Let's Connect :: </h1>
 <p align="center">
+
+<!-- ## Fast dash-dash line animation -->
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 <p <b>** &nbsp; About Me &nbsp; ** </b> </p>
 

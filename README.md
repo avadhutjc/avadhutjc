@@ -1,5 +1,5 @@
 <!-- <h1 <b align="center">Hi There 👋, I'm Avadhut Chougule </b> </h1>
-<h2 <b align="center" > Full Stack Android Developer </b> </h2>
+<h2 <b align="center" > Full Stack Android Developer </b> </h2> 
  -->
 
  

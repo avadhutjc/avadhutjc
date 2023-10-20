@@ -4,7 +4,6 @@
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Avadhut Chougule</h1>
 <h3 align="center">I'm a passionate Full Stack Android Developer and Competitive Programmer from :india:</h2>
-
 <!-- </a>
 
 </a> -->

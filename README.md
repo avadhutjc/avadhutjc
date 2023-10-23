@@ -3,7 +3,7 @@
  -->
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Avadhut Chougule</h1>
-<h3 align="center">I'm a passionate Full Stack Android Developer and Competitive Programmer from :india:</h2>
+<h3 align="center">I'm a passionate Full Stack Android Developer and Competitive Programmer from : India:</h2>
 <!-- </a>
 
 </a> -->
@@ -16,10 +16,7 @@
 </p>  -->
 
 
-<p>Hi, An enthusiastic Android Developer with knowledge of Core
-Java, Kotlin and Android. Highly adaptable to learning new technologies and
-passionate about building applications. Looking forward to honing skills by working on
-various challenging projects.</p>
+<p>Hi, An enthusiastic Android Developer with knowledge of Core Java, Kotlin and Android. Highly adaptable to learning new technologies and passionate about building applications. I look forward to honing my skills by working on various challenging projects.</p>
 &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;------------------------------------------------------------------------------------------------------------------------&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;
 <ul>
  

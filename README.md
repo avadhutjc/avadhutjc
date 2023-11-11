@@ -50,7 +50,6 @@
 </ul>
 
 <h2 align="left">🛠 Languages and Tools 🧰 :</h2>
-
 ---
 
 <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin logo" width="43" height="43"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

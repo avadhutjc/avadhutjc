@@ -1,8 +1,8 @@
-<!-- <h1 <b align="center">Hi There 👋, I'm Shree Chougule </b> </h1>
+<!-- <h1 <b align="center">Hi There 👋, </b> </h1>
 <h2 <b align="center" > Full Stack Android Developer </b> </h2> 
  -->
  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Shree Chougule</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h1>
 <h3 align="center">I'm a passionate Full Stack Android Developer and Competitive Programmer from : India:</h2>
 <!-- </a>
 
